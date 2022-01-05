@@ -1,0 +1,5 @@
+com\manoj\example\kafka\KafkaRestController.class
+com\manoj\example\kafka\MessageRepository.class
+com\manoj\example\kafka\MessageProducer.class
+com\manoj\example\kafka\Main.class
+com\manoj\example\kafka\MessageConsumer.class
